@@ -1,11 +1,7 @@
+This project demonstrates simple neural networks implemented using TensorFlow/Keras to model the AND and OR logic gates.
 
-# AND Gate Neural Network
-
-This project demonstrates a simple neural network implemented in TensorFlow/Keras to model the AND logic gate.
-
-## Project Overview
-- Implements a one-neuron network with sigmoid activation.
-- Trains on all combinations of 2 binary inputs.
-- Experiments with different learning rates and epochs to observe their effect on model convergence and predictions.
-
-
+Project Overview:
+Implements single-neuron neural networks with sigmoid activation.
+Trains on all possible combinations of two binary inputs.
+Models both AND and OR logical operations.
+Experiments with different learning rates and epochs to study their effect on model convergence and prediction accuracy.
